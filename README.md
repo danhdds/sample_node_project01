@@ -7,8 +7,11 @@
 
 1 - Clone this repo:
     `git clone https://github.com/danhdds/sample_node_project01.git`
+    
 2 - Run:
+
     `npm install`
+
     `npm start`
 
 * To access the app:
